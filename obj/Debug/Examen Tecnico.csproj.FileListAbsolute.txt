@@ -1,0 +1,16 @@
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\bin\Debug\Examen Tecnico.exe.config
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\bin\Debug\Examen Tecnico.exe
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\bin\Debug\Examen Tecnico.pdb
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.csproj.AssemblyReference.cache
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen_Tecnico.Properties.Resources.resources
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.csproj.GenerateResource.cache
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.exe
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.pdb
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen_Tecnico.Main.resources
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen_Tecnico.ConsultaDCF.resources
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\bin\Debug\Examen Tecnico.exe.manifest
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\bin\Debug\Examen Tecnico.application
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.exe.manifest
+C:\Users\Eduardo Granados\source\repos\Examen Tecnico\obj\Debug\Examen Tecnico.application
